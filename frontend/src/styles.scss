@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f0f4f8; /* Very light cool gray */
+  color: #333;
+}
+
+:root {
+  --primary-color: #00897b; /* Teal Blue (Tea) */
+  --primary-hover: #00695c; /* Darker Teal */
+  --accent-color: #e0f2f1;  /* Very Light Mint */
+  --text-dark: #2c3e50;
+  --white: #ffffff;
+  --shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
